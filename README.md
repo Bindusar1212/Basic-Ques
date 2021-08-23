@@ -20,3 +20,7 @@ Binary to Decimal:- we have to convert binary number to decimal number if 1101 i
     Approach:-isme agar 1101 ek digit last se uthate hue usko power(2,n) se multiple kr dena h aur n=0 rahega starting me phir n++ kr denge.
                 loop cahlega while(true) aur 1101 ko modulus ka use krke ek ek digit nikl lenge. 
 
+Decimal to Binary:- In this we have convert decimal number to binary number if we have 10 then continuosly we take the remainder and store it in
+                    an array and print the  reverse array.
+                    
+     Approach:- isme number ka remainder store krna h array me aur usko reverse me print kr dena h.
