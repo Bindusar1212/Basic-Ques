@@ -10,6 +10,8 @@ Factorial:-  It is multiplication of number to given number like if we have 5 th
     Approach:- agar n diya hua h toh ek loop chalenge n se 0 tk aur usko haar iteration me km krte jayenge aur jo uss time 
                 present  n rahega usko multiple krte jayenge. aur o & 1 ka factorial 1 hota ek case le lenge.
     
-
+Fibonacci:- In this series the next number is sum of previous two numbers.
+        
+    Approach:- isme pehla number 0 aur dusraa number 1 hota h uske baad ka calculate krte jao aur ek line me print krwate jao
 
 
